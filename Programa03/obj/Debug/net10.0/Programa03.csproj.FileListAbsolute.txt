@@ -1,0 +1,15 @@
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\bin\Debug\net10.0\Programa03.exe
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\bin\Debug\net10.0\Programa03.deps.json
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\bin\Debug\net10.0\Programa03.runtimeconfig.json
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\bin\Debug\net10.0\Programa03.dll
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\bin\Debug\net10.0\Programa03.pdb
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.AssemblyInfoInputs.cache
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.AssemblyInfo.cs
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.sourcelink.json
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.dll
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\refint\Programa03.dll
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.pdb
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\Programa03.genruntimeconfig.cache
+C:\Users\Estudiante\OneDrive\Escritorio\programacion3\Programa03\obj\Debug\net10.0\ref\Programa03.dll
