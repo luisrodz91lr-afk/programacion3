@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj": {}
+    "C:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj": {
+    "C:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj",
+        "projectUniqueName": "C:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj",
         "projectName": "array3",
-        "projectPath": "c:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj",
+        "projectPath": "C:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\array3.csproj",
         "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante\\OneDrive\\Escritorio\\programacion3\\array3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
