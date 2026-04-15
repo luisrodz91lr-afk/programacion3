@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("array2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ejercicio_boliche")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f5002c9897e1ae66bd5cd99da87600efefc4e40")]
-[assembly: System.Reflection.AssemblyProductAttribute("array2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("array2")]
+[assembly: System.Reflection.AssemblyProductAttribute("ejercicio_boliche")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ejercicio_boliche")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

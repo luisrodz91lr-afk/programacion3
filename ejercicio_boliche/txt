@@ -1,0 +1,21 @@
+El presente programa desarrollado en C# tiene como objetivo registrar los datos de 20 personas y 
+determinar cuáles pueden ingresar a un boliche según su edad.
+
+En primer lugar, se declaran dos arreglos: uno de tipo string para almacenar los nombres de las personas
+y otro de tipo int para guardar sus edades. Cada arreglo tiene una capacidad de 20 posiciones,
+lo que permite registrar la información de 20 individuos.
+
+Luego, mediante un bucle for, el programa solicita al usuario que ingrese el nombre y la edad de cada
+persona. Este proceso se repite 20 veces, almacenando los datos en las posiciones correspondientes de 
+los arreglos.
+
+Una vez cargada la información, se utiliza otro bucle for junto con una estructura condicional if para
+evaluar la edad de cada persona. Si la edad es mayor a 30 años, el programa muestra el nombre y la edad 
+de esa persona indicando que puede ingresar al boliche.
+
+Posteriormente, se realiza un segundo recorrido del arreglo para identificar a las personas que no cumplen
+con la condición. En este caso, si la edad es menor o igual a 30 años, se muestran sus datos indicando
+que no pueden ingresar.
+
+Finalmente, el programa permite visualizar los resultados en pantalla, separando claramente las personas
+que pueden ingresar de aquellas que no.
